@@ -1,0 +1,36 @@
+/* Estilo para h1 con Google Fonts */
+h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #831262;
+    text-align: center;
+}
+
+/*Segundo Estilo para toda la página*/
+body {
+
+    font-family: 'DM Sans', sans-serif;
+    background-color: #CBDEF3;
+    color:#221A4C;
+}
+
+h2 {
+    color: #3144A2;
+}
+
+p {
+    font-size: 20px;
+    color:#221A4C;
+}
+
+ol {
+    margin-left: 35px;
+}
+
+input[type="submit"] {
+    background-color: #512493;
+    color: #d8bed6;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
